@@ -15,3 +15,5 @@ def prime_factors(num):
 print(prime_factors(20))
 print(prime_factors(100))
 print(prime_factors(114514))
+print(prime_factors(5201314))
+//why delete my codes!!!!
